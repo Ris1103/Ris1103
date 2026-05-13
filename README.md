@@ -77,6 +77,7 @@ My 2 years of hands-on experience span the full AI product lifecycle: data pipel
   <img src="https://img.shields.io/badge/Arize%20Phoenix-7C3AED?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CloudWatch-000600?style=for-the-badge"/>
 </p>
 
 **Data & Compute**
